@@ -5,7 +5,7 @@ a = float(input("Enter the first number: "))
 b = float(input("Enter the second number: "))
 
 # Subtract
-result = a - b
+result = (a - b)*3
 
 # Output the result
 print("The result of subtraction is:", result)

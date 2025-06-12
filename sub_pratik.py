@@ -5,7 +5,7 @@ a = float(input("Enter the first number: "))
 b = float(input("Enter the second number: "))
 
 # Subtract
-result = (a - b)*7
+result = (a - b)*8
 
-# Output the result
+# Output te result
 print("The result of subtraction is:", result)

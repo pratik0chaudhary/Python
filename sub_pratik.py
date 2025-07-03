@@ -5,7 +5,7 @@ a = float(input("Enter the first number: "))
 b = float(input("Enter the second number: "))
 
 # Subtract
-result = (a - b)*12
+result = (a - b)*24
 
 # Output te result
 print("The result of subtraction is:", result)
